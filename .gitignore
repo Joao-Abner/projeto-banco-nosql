@@ -24,3 +24,6 @@ Thumbs.db
 *.egg-info/
 dist/
 build/
+
+# backup files
+backup_patrimonio/
