@@ -5,7 +5,8 @@ __pycache__/
 
 # Virtual environments
 venv/
-venv_patrimonios/
+venv_patrimonio/
+venv_patrimonio_novo/
 .env/
 .env
 
