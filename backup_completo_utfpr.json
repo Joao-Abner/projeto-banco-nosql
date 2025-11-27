@@ -1,0 +1,346 @@
+{
+    "servidores": [
+        {
+            "siape": "2025001",
+            "nome": "Prof. Diretor Geral",
+            "departamento": "DIRGE",
+            "cargo": "Diretor Geral"
+        },
+        {
+            "siape": "2025002",
+            "nome": "Tec. Chefe TI",
+            "departamento": "COGETI",
+            "cargo": "Coordenador de TI"
+        },
+        {
+            "siape": "2025003",
+            "nome": "Tec. Suporte Junior",
+            "departamento": "COGETI",
+            "cargo": "Técnico de TI"
+        },
+        {
+            "siape": "2025004",
+            "nome": "Jorn. Ana Silva",
+            "departamento": "ASCOM",
+            "cargo": "Jornalista"
+        },
+        {
+            "siape": "2025005",
+            "nome": "Tec. RH Souza",
+            "departamento": "COGERH",
+            "cargo": "Assistente em Adm"
+        },
+        {
+            "siape": "2025006",
+            "nome": "Prof. Chefe Gabinete",
+            "departamento": "GADIR",
+            "cargo": "Chefe de Gabinete"
+        },
+        {
+            "siape": "2025007",
+            "nome": "Tec. Redes Oliveira",
+            "departamento": "COGETI",
+            "cargo": "Técnico de Redes"
+        },
+        {
+            "siape": "2025008",
+            "nome": "Tec. Dev Santos",
+            "departamento": "COGETI",
+            "cargo": "Analista de Sistemas"
+        },
+        {
+            "siape": "2025009",
+            "nome": "Analista RH Lima",
+            "departamento": "COGERH",
+            "cargo": "Analista de RH"
+        },
+        {
+            "siape": "2025010",
+            "nome": "Sec. Executiva",
+            "departamento": "DIRGE",
+            "cargo": "Secretário"
+        },
+        {
+            "siape": "2025011",
+            "nome": "Agente Patrimonial",
+            "departamento": "DIRPLAD",
+            "cargo": "Assistente Patrimonial"
+        },
+        {
+            "siape": "2025012",
+            "nome": "Publicitário Costa",
+            "departamento": "ASCOM",
+            "cargo": "Publicitário"
+        },
+        {
+            "siape": "2025013",
+            "nome": "Tec. Infraestrutura",
+            "departamento": "COGETI",
+            "cargo": "Técnico em Eletrotécnica"
+        },
+        {
+            "siape": "2025014",
+            "nome": "Coord. RH",
+            "departamento": "COGERH",
+            "cargo": "Coordenador"
+        },
+        {
+            "siape": "2025015",
+            "nome": "Assessor de Gabinete",
+            "departamento": "GADIR",
+            "cargo": "Assessor"
+        },
+        {
+            "siape": "EXTRA01",
+            "nome": "Prof. Substituto A",
+            "departamento": "COGETI",
+            "cargo": "Professor"
+        },
+        {
+            "siape": "EXTRA02",
+            "nome": "Estagiário TI",
+            "departamento": "COGETI",
+            "cargo": "Técnico de TI Junior"
+        },
+        {
+            "siape": "EXTRA03",
+            "nome": "Jornalista Freelancer",
+            "departamento": "ASCOM",
+            "cargo": "Jornalista"
+        }
+    ],
+    "ativos": [
+        {
+            "patrimonio_id": "UTFGP00001",
+            "descricao": "Camera Canon DSLR",
+            "localizacao": "Sala COGETI",
+            "valor": 17412.6,
+            "status": "Ocioso",
+            "responsavel_id": "2025005"
+        },
+        {
+            "patrimonio_id": "UTFGP00002",
+            "descricao": "Servidor Dell PowerEdge",
+            "localizacao": "Auditório Principal",
+            "valor": 2387.18,
+            "status": "Aguardando Baixa",
+            "responsavel_id": "2025001"
+        },
+        {
+            "patrimonio_id": "UTFGP00003",
+            "descricao": "Mesa Digitalizadora Wacom",
+            "localizacao": "Sala COGETI",
+            "valor": 12980.97,
+            "status": "Em Uso",
+            "responsavel_id": "2025007"
+        },
+        {
+            "patrimonio_id": "UTFGP00004",
+            "descricao": "Servidor Dell PowerEdge",
+            "localizacao": "Sala ASCOM",
+            "valor": 15589.38,
+            "status": "Em Uso",
+            "responsavel_id": "2025008"
+        },
+        {
+            "patrimonio_id": "UTFGP00005",
+            "descricao": "Estação de Trabalho i7",
+            "localizacao": "Sala COGETI",
+            "valor": 1901.15,
+            "status": "Aguardando Baixa",
+            "responsavel_id": "2025010"
+        },
+        {
+            "patrimonio_id": "UTFGP00006",
+            "descricao": "Notebook Dell Latitude",
+            "localizacao": "Auditório Principal",
+            "valor": 5094.882,
+            "status": "Em Manutenção",
+            "responsavel_id": "2025005"
+        },
+        {
+            "patrimonio_id": "UTFGP00007",
+            "descricao": "Servidor Dell PowerEdge",
+            "localizacao": "Sala ASCOM",
+            "valor": 5215.95,
+            "status": "Em Manutenção",
+            "responsavel_id": "2025015"
+        },
+        {
+            "patrimonio_id": "UTFGP00008",
+            "descricao": "Switch Cisco Catalyst",
+            "localizacao": "Bloco A - Sala A2",
+            "valor": 8664.67,
+            "status": "Ocioso",
+            "responsavel_id": "2025014"
+        },
+        {
+            "patrimonio_id": "UTFGP00009",
+            "descricao": "Impressora Laser HP",
+            "localizacao": "Auditório Principal",
+            "valor": 15242.2,
+            "status": "Em Uso",
+            "responsavel_id": "2025006"
+        },
+        {
+            "patrimonio_id": "UTFGP00010",
+            "descricao": "Impressora Laser HP",
+            "localizacao": "Bloco B - Sala B2",
+            "valor": 4854.22,
+            "status": "Ocioso",
+            "responsavel_id": "2025003"
+        },
+        {
+            "patrimonio_id": "UTFGP00011",
+            "descricao": "Estação de Trabalho i7",
+            "localizacao": "Bloco C - Lab C1",
+            "valor": 4162.482,
+            "status": "Em Manutenção",
+            "responsavel_id": "2025006"
+        },
+        {
+            "patrimonio_id": "UTFGP00012",
+            "descricao": "Mesa Digitalizadora Wacom",
+            "localizacao": "Sala COGETI",
+            "valor": 13052.591999999999,
+            "status": "Em Manutenção",
+            "responsavel_id": "2025005"
+        },
+        {
+            "patrimonio_id": "UTFGP00013",
+            "descricao": "Camera Canon DSLR",
+            "localizacao": "Auditório Principal",
+            "valor": 9800.57,
+            "status": "Em Uso",
+            "responsavel_id": "2025005"
+        },
+        {
+            "patrimonio_id": "UTFGP00014",
+            "descricao": "Camera Canon DSLR",
+            "localizacao": "Bloco C - Lab C1",
+            "valor": 4870.89,
+            "status": "Ocioso",
+            "responsavel_id": "2025004"
+        },
+        {
+            "patrimonio_id": "UTFGP00015",
+            "descricao": "Estação de Trabalho i7",
+            "localizacao": "Bloco B - Sala B2",
+            "valor": 13876.9,
+            "status": "Em Uso",
+            "responsavel_id": "2025001"
+        },
+        {
+            "patrimonio_id": "UTFGP00016",
+            "descricao": "Servidor Dell PowerEdge",
+            "localizacao": "Sala COGETI",
+            "valor": 10282.311000000002,
+            "status": "Em Manutenção",
+            "responsavel_id": "2025014"
+        },
+        {
+            "patrimonio_id": "UTFGP00017",
+            "descricao": "Projetor Multimídia Epson",
+            "localizacao": "Sala COGETI",
+            "valor": 15841.46,
+            "status": "Aguardando Baixa",
+            "responsavel_id": "2025003"
+        },
+        {
+            "patrimonio_id": "UTFGP00018",
+            "descricao": "Projetor Multimídia Epson",
+            "localizacao": "Sala ASCOM",
+            "valor": 6971.34,
+            "status": "Ocioso",
+            "responsavel_id": "2025004"
+        },
+        {
+            "patrimonio_id": "UTFGP00019",
+            "descricao": "Servidor Dell PowerEdge",
+            "localizacao": "Sala COGETI",
+            "valor": 9102.91,
+            "status": "Em Uso",
+            "responsavel_id": "2025007"
+        },
+        {
+            "patrimonio_id": "UTFGP00020",
+            "descricao": "Switch Cisco Catalyst",
+            "localizacao": "Sala COGETI",
+            "valor": 12380.14,
+            "status": "Em Uso",
+            "responsavel_id": "2025012"
+        },
+        {
+            "patrimonio_id": "UTFGP00021",
+            "descricao": "Mesa Digitalizadora Wacom",
+            "localizacao": "Bloco B - Sala B2",
+            "valor": 2889.29,
+            "status": "Aguardando Baixa",
+            "responsavel_id": "2025010"
+        },
+        {
+            "patrimonio_id": "UTFGP00022",
+            "descricao": "Camera Canon DSLR",
+            "localizacao": "Bloco A - Sala A2",
+            "valor": 9722.55,
+            "status": "Em Uso",
+            "responsavel_id": "2025011"
+        },
+        {
+            "patrimonio_id": "UTFGP00023",
+            "descricao": "Servidor Dell PowerEdge",
+            "localizacao": "Sala ASCOM",
+            "valor": 2660.06,
+            "status": "Em Uso",
+            "responsavel_id": "2025007"
+        },
+        {
+            "patrimonio_id": "UTFGP00024",
+            "descricao": "Switch Cisco Catalyst",
+            "localizacao": "Bloco B - Sala B2",
+            "valor": 6351.354,
+            "status": "Em Manutenção",
+            "responsavel_id": "2025007"
+        },
+        {
+            "patrimonio_id": "UTFGP00025",
+            "descricao": "Mesa Digitalizadora Wacom",
+            "localizacao": "Sala COGETI",
+            "valor": 6860.1,
+            "status": "Ocioso",
+            "responsavel_id": "2025003"
+        },
+        {
+            "patrimonio_id": "NEW001",
+            "descricao": "iPad Pro 12\"",
+            "localizacao": "Sala ASCOM",
+            "valor": 8500.0,
+            "status": "Em Uso",
+            "responsavel_id": "EXTRA03"
+        },
+        {
+            "patrimonio_id": "NEW002",
+            "descricao": "Monitor 29\" LG",
+            "localizacao": "Sala COGETI",
+            "valor": 1200.0,
+            "status": "Em Uso",
+            "responsavel_id": "EXTRA02"
+        },
+        {
+            "patrimonio_id": "NEW005",
+            "descricao": "Drone DJI (Filmagens)",
+            "localizacao": "Sala ASCOM",
+            "valor": 10800.0,
+            "status": "Em Manutenção",
+            "responsavel_id": "EXTRA03"
+        },
+        {
+            "patrimonio_id": "ERRO_TESTE",
+            "descricao": null,
+            "localizacao": "Depósito de Sucata",
+            "valor": null,
+            "status": "Aguardando Baixa",
+            "responsavel_id": "2025001"
+        }
+    ]
+}
